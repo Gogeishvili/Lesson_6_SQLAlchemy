@@ -2,7 +2,6 @@ from data_controller import DataWriter,DataAnalyzer
 import random
 from random_helper import RandomHelper
 
-
 def main():
     data_writer = DataWriter()
     data_writer.clear_data()
